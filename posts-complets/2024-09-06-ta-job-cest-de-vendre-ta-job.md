@@ -1,0 +1,397 @@
+---
+date: '2024-09-06'
+title: Ta job c'est de vendre ta job 💼
+url: https://saaspasse.beehiiv.com/p/ta-job-cest-de-vendre-ta-job
+slug: ta-job-cest-de-vendre-ta-job
+source: beehiiv
+word_count: 1366
+reading_time_min: 7
+editorial_confidence: high
+liens_internes: 12
+liens_externes: 19
+top_domains:
+- domain: www.linkedin.com
+  count: 7
+- domain: saaspasse.us21.list-manage.com
+  count: 3
+- domain: www.youtube.com
+  count: 2
+- domain: www.facebook.com
+  count: 1
+- domain: twitter.com
+  count: 1
+utm_detectes:
+- url: https://saaspasse.beehiiv.com/p/ta-job-cest-de-vendre-ta-job?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job&last_resource_guid=Post%3A39fac5e2-2620-4a67-978a-a60c54bee48d
+- url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fta-job-cest-de-vendre-ta-job&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://twitter.com/intent/tweet?text=AKA+vendre+ce+que+tu+livres+%F0%9F%92%BC&url=https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fta-job-cest-de-vendre-ta-job&via=frankhellend&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.threads.net/intent/post?text=AKA+vendre+ce+que+tu+livres+%F0%9F%92%BC+https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fta-job-cest-de-vendre-ta-job&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fta-job-cest-de-vendre-ta-job&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.youtube.com/watch?v=kLTg-pkMtio&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/episode/episode-47-georges-saad-entrepreneur-indestructible?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/in/vincentboilardgirard/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/in/sheila-morin-60746323/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/blog/le-chiffre-heyday-etude-de-cas?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/partenaires/le-chiffre?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/in/etiennemerineau/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/in/jean-gabriel-crevier-53904243/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/blog/le-chiffre-heyday-etude-de-cas?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/partenaires/le-chiffre?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/partenaires/leviat-legal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/partenaires/baseline?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/partenaires/coveo?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.saaspasse.com/episode/episode-102-thameur-triki-lead-apres-lead---la-vente-en-saas?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=2175264455&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=41dc209695&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://x.com/SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.instagram.com/saaspasse/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.youtube.com/@SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://www.linkedin.com/company/saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- url: https://saaspasse.beehiiv.com/upgrade?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job&last_resource_guid=Post%3A39fac5e2-2620-4a67-978a-a60c54bee48d
+- url: https://saaspasse.beehiiv.com/subscribe/{{subscriber_id}}/preferences?post_id=39fac5e2-2620-4a67-978a-a60c54bee48d&last_resource_guid=Post%3A39fac5e2-2620-4a67-978a-a60c54bee48d&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job&last_resource_guid=Post%3A39fac5e2-2620-4a67-978a-a60c54bee48d
+- url: https://www.beehiiv.com/?utm_campaign=39fac5e2-2620-4a67-978a-a60c54bee48d&utm_medium=post_email&utm_source=saaspasse
+infolettres_mentionnees:
+- titre: Read Online
+  url: https://saaspasse.beehiiv.com/p/ta-job-cest-de-vendre-ta-job?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job&last_resource_guid=Post%3A39fac5e2-2620-4a67-978a-a60c54bee48d
+podcasts_mentionnes:
+- titre: job’s done
+  YouTube URL: https://www.youtube.com/watch?v=kLTg-pkMtio&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- titre: Georges
+  Site web URL: https://www.saaspasse.com/episode/episode-47-georges-saad-entrepreneur-indestructible?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- titre: 'EP.102 - Thameur Triki : Lead après lead - La vente en SaaS'
+  Site web URL: https://www.saaspasse.com/episode/episode-102-thameur-triki-lead-apres-lead---la-vente-en-saas?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- titre: null
+  YouTube URL: https://www.youtube.com/@SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+personnes:
+- nom: et Vincent
+  linkedin: https://www.linkedin.com/in/vincentboilardgirard/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- nom: Frank
+  linkedin: https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- nom: Sheila Morin
+  linkedin: https://www.linkedin.com/in/sheila-morin-60746323/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- nom: Étienne Mérineau
+  linkedin: https://www.linkedin.com/in/etiennemerineau/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+- nom: Jean Gabriel Crevier
+  linkedin: https://www.linkedin.com/in/jean-gabriel-crevier-53904243/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+compagnies:
+- nom: null
+  linkedin: https://www.linkedin.com/company/saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job
+---
+
+
+# Éditorial (copywriting)
+
+<!-- editorial:start -->
+What’s up folks 👋
+
+Merci d’être là. Je commence avec mon édito et j’énumère les nouvelles importantes après!
+
+> Ta première job, c’est de faire ta job.
+
+> 
+> *Je mets mon chapeau de gestionnaire pour celle-là*
+
+> 
+> *Ben oui, mon chapeau de gestionnaire a une belle boucle dessus. T’essaieras de trouver un emoji qui crie “chapeau de gestionnaire”.*
+
+> 
+> *Sure*
+
+> 
+> *side project*
+
+> 
+> *time to shine homie*
+
+> 
+> *Check*
+
+> 
+> *been there*
+
+> 
+> *actually*
+
+> 
+> *What’s in it for you?*
+
+> 
+> *Plot twist*
+
+> 
+> *Throwback 2015*
+
+> 
+> *Si vous avez envie que j’écrive là-dessus, LMK*
+
+> 
+> *good*
+
+> MAIS!
+
+> Ta job, c’est aussi de **vendre** ta job.
+
+> *Je mets mon chapeau de gestionnaire pour celle-là *👒
+
+> *Ben oui, mon chapeau de gestionnaire a une belle boucle dessus. T’essaieras de trouver un emoji qui crie “chapeau de gestionnaire”.*
+
+> Te rappelles-tu du paysan dans Warcraft III qui disait “[job’s done](https://www.youtube.com/watch?v=kLTg-pkMtio&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job)” après avoir complété sa tâche?
+
+> Tu dois faire la même chose — avec un peu plus de détails.
+
+> J’appelle ça **vendre ce que tu livres**.
+
+> Parce que la liberté dont on jouit en tech vient avec une responsabilité.
+
+> *Sure*, je ne regarderai pas par-dessus ton épaule pour voir si t’as fini d’écrire un rapport ou de plugger un API.
+
+> *Sure*, tu peux travailler d’où tu veux quand tu veux, sans remplir de feuilles de temps.
+
+> *Sure*, tu peux plancher sur un *side project* de jeu vidéo indie soirs & weekends.
+
+> Mais quand vient le temps de participer aux rituels communs d’organisation du travail, *time to shine homie*.
+
+> Que ce soit Scrum, Shape Up, Kanban — peu importe. L’important? Créer des espaces où vendre ce qu’on livre est facile.
+
+> Un channel dans Slack, un daily standup vidéo, un thread async dans Basecamp, un sprint review, un weekly IRL, etc.
+
+> Si il n’y a pas d’espaces comme ça, **créez-en**. Aussi informels soit-ils. J’écrirai sur le concept du Minimal Viable Process bientôt.
+
+> Comme employé, peut-être que tu lis ça et pense :
+
+> C’est quoi la joke, ça suffit pas que je fasse ma job, faut j’en parle en plus?
+
+> *Check*, *been there*, je comprends.
+
+> Mais en effet, ça ne suffit pas.
+
+> Dans une compagnie, y’a du bruit. Et plus la compagnie grossit, plus y’a de bruit. Faut se battre pour une part d’attention.
+
+> Évidemment que tu peux briller dans ton 1:1 ou ta rétrospective annuelle. Mais idéalement, tu communiquerais tellement bien ce que tu fais au quotidien qu’on aurait aucun doute sur ta valeur quand ces rituels arrivent.
+
+> Des exemples de vendre ce que tu livres :
+
+- Rédiger un récapitulatif hebdo perso et le partager à ton équipe
+
+- Documenter tes processus & nouvelles fonctionnalités
+
+- Enregistrer une démo de ton projet sur Loom et demander du feedback
+
+- Arriver prêt, avec notes, aux rituels d’organisation du travail
+
+- Éduquer tes collègues sur ton domaine d’expertise dans un lunch’n’learn
+
+> La beauté de vendre ce que tu livres, c’est qu’on va pouvoir *actually* utiliser ce que t’as livré. Ou à un minimum le reconnaître. Et on va avoir encore plus le goût de travailler avec toi.
+
+> J’ai eu des employés talentueux qui communiquaient peu ou pas. Parfois, ils avaient décidé de travailler sur un projet connexe qui apportait plus de valeur à la compagnie. Mais ça, on ne le savait pas avant qu’un rituel prenne place. Parfois, l’employé n’en parlait même pas pendant le meeting! Notre lecture de gestionnaire? La personne n’a pas travaillé sur les projets établis en équipe.
+
+> Ah, aussi : si tout le monde vend ce qu’ils livrent, on réalise rapidement qui ne livre pas pantoute.
+
+> *What’s in it for you?*
+
+> Plus tu parles de ton travail, plus on le remarque. Plus on le remarque, plus on le critique ou le célèbre. Dans les deux cas, tu gagnes & la compagnie gagnes.
+
+> En contenu marketing, on dit souvent 50% production, 50% promotion. Dans n’importe quelle job, même principe, différent ratio. Disons 80/20?
+
+> **Faire ne suffit pas. Dans un environnement bruyant, faut aussi communiquer.**
+
+> *Plot twist* : tout ce que j’ai baragouiné plus haut s’applique aux fondateurs aussi.
+
+> *Throwback 2015*
+
+> À l’époque, [Georges](https://www.saaspasse.com/episode/episode-47-georges-saad-entrepreneur-indestructible?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job) générait une tonne de valeur pour Spektrum & Snipcart.
+
+> Mais il traînait rarement dans les parages du bureau : pitches de vente, resto, 5@7…
+
+> De l’extérieur, un naïf employé insécure (moi) aurait pu croire qu’il ne **travaillait **pas vraiment. Que l’équipe au bureau générait plus de valeur. Après tout, fallait bien le coder, le commercialiser, l’entretenir ce SaaS-là!
+
+> Au final, Georges ([et Vincent](https://www.linkedin.com/in/vincentboilardgirard/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job)) généraient beaucoup plus de valeur que je croyais. Les opportunités découlant des relations de Georges et l’infrastructure découlant de la gestion de Vincent étaient **cruciales** au succès de Snipcart.
+
+> Le seul hic, selon moi? Les gars n’en parlaient pas assez.
+
+→ Charles, François, Vincent, Georges. Faisait des lunes qu’on avait pas chiller les quatre!
+
+> Plusieurs fondateurs sont comme ça, BTW. Vu qu’ils possèdent la majorité de l’équité, on assume souvent deux trucs :
+
+- C’est eux les boss, donc ils peuvent faire ce qu’ils veulent sans comptes à rendre.
+
+- C’est à eux la compagnie, donc ils doivent faire tout ce qu’ils peuvent pour la grandir.
+
+> Poussées à l’extrême, ces visions nuisent plus qu’autre chose. On veut sentir que les fondateurs sont activement engagés dans le travail de la business. Qu’ils sont humains, avec une charge mentale équivalente ou souvent supérieure à celle des employés.
+
+> Le problème? Personne oblige les fondateurs à vendre ce qu’ils livrent. Peut-être au niveau du conseil d’administration, mais pas **dans** la compagnie-même.
+
+> La solution? Prêcher par l’exemple, participer aux rituels, montrer comment vendre ce qu’on livre comme fondateurs.
+
+> Ou mieux (mon pref) : **build in public**.
+
+> *Si vous avez envie que j’écrive là-dessus, LMK*.
+
+> As-tu quelque chose à ajouter? Si oui, *good*! Laisse un commentaire ou réponds à ce courriel direct.
+
+> Cheers,
+
+> [Frank](https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job) 💜
+<!-- editorial:end -->
+
+What’s up folks 👋
+
+Merci d’être là. Je commence avec mon édito et j’énumère les nouvelles importantes après!
+
+Ta première job, c’est de faire ta job.
+
+MAIS!
+
+Ta job, c’est aussi de **vendre** ta job.
+
+*Je mets mon chapeau de gestionnaire pour celle-là *👒
+
+*Ben oui, mon chapeau de gestionnaire a une belle boucle dessus. T’essaieras de trouver un emoji qui crie “chapeau de gestionnaire”.*
+
+Te rappelles-tu du paysan dans Warcraft III qui disait “[job’s done](https://www.youtube.com/watch?v=kLTg-pkMtio&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job)” après avoir complété sa tâche?
+
+Tu dois faire la même chose — avec un peu plus de détails.
+
+J’appelle ça **vendre ce que tu livres**.
+
+Parce que la liberté dont on jouit en tech vient avec une responsabilité.
+
+*Sure*, je ne regarderai pas par-dessus ton épaule pour voir si t’as fini d’écrire un rapport ou de plugger un API.
+
+*Sure*, tu peux travailler d’où tu veux quand tu veux, sans remplir de feuilles de temps.
+
+*Sure*, tu peux plancher sur un *side project* de jeu vidéo indie soirs & weekends.
+
+Mais quand vient le temps de participer aux rituels communs d’organisation du travail, *time to shine homie*.
+
+Que ce soit Scrum, Shape Up, Kanban — peu importe. L’important? Créer des espaces où vendre ce qu’on livre est facile.
+
+Un channel dans Slack, un daily standup vidéo, un thread async dans Basecamp, un sprint review, un weekly IRL, etc.
+
+Si il n’y a pas d’espaces comme ça, **créez-en**. Aussi informels soit-ils. J’écrirai sur le concept du Minimal Viable Process bientôt.
+
+Comme employé, peut-être que tu lis ça et pense :
+
+C’est quoi la joke, ça suffit pas que je fasse ma job, faut j’en parle en plus?
+
+*Check*, *been there*, je comprends.
+
+Mais en effet, ça ne suffit pas.
+
+Dans une compagnie, y’a du bruit. Et plus la compagnie grossit, plus y’a de bruit. Faut se battre pour une part d’attention.
+
+Évidemment que tu peux briller dans ton 1:1 ou ta rétrospective annuelle. Mais idéalement, tu communiquerais tellement bien ce que tu fais au quotidien qu’on aurait aucun doute sur ta valeur quand ces rituels arrivent.
+
+Des exemples de vendre ce que tu livres :
+
+- Rédiger un récapitulatif hebdo perso et le partager à ton équipe
+- Documenter tes processus & nouvelles fonctionnalités
+- Enregistrer une démo de ton projet sur Loom et demander du feedback
+- Arriver prêt, avec notes, aux rituels d’organisation du travail
+- Éduquer tes collègues sur ton domaine d’expertise dans un lunch’n’learn
+
+La beauté de vendre ce que tu livres, c’est qu’on va pouvoir *actually* utiliser ce que t’as livré. Ou à un minimum le reconnaître. Et on va avoir encore plus le goût de travailler avec toi.
+
+J’ai eu des employés talentueux qui communiquaient peu ou pas. Parfois, ils avaient décidé de travailler sur un projet connexe qui apportait plus de valeur à la compagnie. Mais ça, on ne le savait pas avant qu’un rituel prenne place. Parfois, l’employé n’en parlait même pas pendant le meeting! Notre lecture de gestionnaire? La personne n’a pas travaillé sur les projets établis en équipe.
+
+Ah, aussi : si tout le monde vend ce qu’ils livrent, on réalise rapidement qui ne livre pas pantoute.
+
+*What’s in it for you?*
+
+Plus tu parles de ton travail, plus on le remarque. Plus on le remarque, plus on le critique ou le célèbre. Dans les deux cas, tu gagnes & la compagnie gagnes.
+
+En contenu marketing, on dit souvent 50% production, 50% promotion. Dans n’importe quelle job, même principe, différent ratio. Disons 80/20?
+
+**Faire ne suffit pas. Dans un environnement bruyant, faut aussi communiquer.**
+
+*Plot twist* : tout ce que j’ai baragouiné plus haut s’applique aux fondateurs aussi.
+
+*Throwback 2015*
+
+À l’époque, [Georges](https://www.saaspasse.com/episode/episode-47-georges-saad-entrepreneur-indestructible?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job) générait une tonne de valeur pour Spektrum & Snipcart.
+
+Mais il traînait rarement dans les parages du bureau : pitches de vente, resto, 5@7…
+
+De l’extérieur, un naïf employé insécure (moi) aurait pu croire qu’il ne **travaillait **pas vraiment. Que l’équipe au bureau générait plus de valeur. Après tout, fallait bien le coder, le commercialiser, l’entretenir ce SaaS-là!
+
+Au final, Georges ([et Vincent](https://www.linkedin.com/in/vincentboilardgirard/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job)) généraient beaucoup plus de valeur que je croyais. Les opportunités découlant des relations de Georges et l’infrastructure découlant de la gestion de Vincent étaient **cruciales** au succès de Snipcart.
+
+Le seul hic, selon moi? Les gars n’en parlaient pas assez.
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e50148f3-9d60-4a06-adcf-dc9578c2e648/D52B9F56-1981-4110-B5FB-FC70C4E0C526_1_105_c.jpeg?t=1725208544)
+
+→ Charles, François, Vincent, Georges. Faisait des lunes qu’on avait pas chiller les quatre!
+
+Plusieurs fondateurs sont comme ça, BTW. Vu qu’ils possèdent la majorité de l’équité, on assume souvent deux trucs :
+
+- C’est eux les boss, donc ils peuvent faire ce qu’ils veulent sans comptes à rendre.
+- C’est à eux la compagnie, donc ils doivent faire tout ce qu’ils peuvent pour la grandir.
+
+Poussées à l’extrême, ces visions nuisent plus qu’autre chose. On veut sentir que les fondateurs sont activement engagés dans le travail de la business. Qu’ils sont humains, avec une charge mentale équivalente ou souvent supérieure à celle des employés.
+
+Le problème? Personne oblige les fondateurs à vendre ce qu’ils livrent. Peut-être au niveau du conseil d’administration, mais pas **dans** la compagnie-même.
+
+La solution? Prêcher par l’exemple, participer aux rituels, montrer comment vendre ce qu’on livre comme fondateurs.
+
+Ou mieux (mon pref) : **build in public**.
+
+*Si vous avez envie que j’écrive là-dessus, LMK*.
+
+As-tu quelque chose à ajouter? Si oui, *good*! Laisse un commentaire ou réponds à ce courriel direct.
+
+Cheers,
+
+[Frank](https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job) 💜
+
+#### **Retour sur l’événement #10 **— **SaaSpasse à MTL**
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/83c26990-3b32-430a-874e-4ae8e4cb7f15/IMG_3601.jpg?t=1725622819)
+
+Sheila Morin & moi
+
+Grosse soirée pour notre 10e événement SaaSpasse chez Coveo MTL hier! Sold out — c’était **incroyable**.
+
+Un gros merci à toute l’équipe chez Coveo pour l’accueil chaleureux, et un shoutout spécial à [Sheila Morin](https://www.linkedin.com/in/sheila-morin-60746323/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job) pour son passage au podcast live. Hâte de vous partager cette belle discussion le 3 octobre. 👀
+
+#### **Étude de cas : Le Chiffre x Heyday**
+
+T’as peut-être vu ça passer sur LinkedIn, mais on a publié une étude de cas sur notre blog récemment.
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6e41b384-ffff-4432-a59a-3adb39cbe57e/CleanShot_2024-09-02_at_10.52.49_2x.png?t=1725288806)
+
+Étude de cas : Le Chiffre x Heyday
+
+C’est quoi cette étude de cas? *Well, *Heyday a été vendu à Hootsuite en 2021 pour 60M$, et mes experts comptables-fractional-CFO-fiscalistes préférés (AKA [Le Chiffre](https://www.saaspasse.com/partenaires/le-chiffre?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job)) les ont accompagnés là-dedans. C’est pas rien, donc on s’est dit qu’on devait vous en parler!
+
+Pour se faire, on a monté le contenu avec [Étienne Mérineau](https://www.linkedin.com/in/etiennemerineau/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job), co-founder de HeyDay et [Jean Gabriel Crevier](https://www.linkedin.com/in/jean-gabriel-crevier-53904243/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job), co-fondateur & directeur général du Chiffre. 
+
+👨‍🍳 **Au menu :**
+• Une discussion entre Étienne & moi, format entrevue
+• Une chronologie des étapes de croissance d’un SaaS comme Heyday, avec les défis typiques rencontrés à chaque étape
+• Un résumé de toutes les discussions, courriels et DMs échangés avec Jean-Gabriel sur ce cas, saupoudré de quelques twists
+
+→ [Case study complet](https://www.saaspasse.com/blog/le-chiffre-heyday-etude-de-cas?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ta-job-c-est-de-vendre-ta-job)
+
+#### **Les partenaires SaaSpasse**
+
+HUGE merci à tous nos partenaires certifiés pour cette année :
+
+- Le Chiffre 🧾
+- Leviat 👨‍⚖️
+- Baseline 🤖
+- Coveo 🦄
+
+#### **Podcast**
+
+Voici le dernier épisode du pod :
+
+- EP.102 - Thameur Triki : Lead après lead - La vente en SaaS
+
+—
+
+Vous n’êtes pas abonnés encore au pod? Let’s go :
+
+- Spotify
+- Apple Podcasts
+- YouTube

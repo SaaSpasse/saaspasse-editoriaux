@@ -1,0 +1,271 @@
+{
+  "date": "2025-09-26",
+  "title": "Barbell",
+  "url": "https://saaspasse.beehiiv.com/p/barbell",
+  "slug": "barbell",
+  "source": "beehiiv",
+  "word_count": 1929,
+  "reading_time_min": 10,
+  "editorial_confidence": "high",
+  "liens_internes": 18,
+  "liens_externes": 35,
+  "top_domains": [
+    {
+      "domain": "www.linkedin.com",
+      "count": 11
+    },
+    {
+      "domain": "saaspasse.us21.list-manage.com",
+      "count": 3
+    },
+    {
+      "domain": "www.youtube.com",
+      "count": 2
+    },
+    {
+      "domain": "aqccapital.ca",
+      "count": 2
+    },
+    {
+      "domain": "www.investopedia.com",
+      "count": 1
+    }
+  ],
+  "utm_detectes": [
+    {
+      "url": "https://saaspasse.beehiiv.com/p/barbell?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://www.linkedin.com/in/emiliecarignan/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BWLS3yvR82w&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.investopedia.com/articles/investing/013114/barbell-investment-strategy.asp?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/p/ca-fait-pas-assez-mal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/p/fais-moi-rever-un-peu?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://www.reforge.com/blog/four-fits-in-action?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/p/gravite-numerique?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://fin.ai/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.monologue.to/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://attio.com/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.clay.com/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.workwithpod.com/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://vasco.app/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://claude.com/product/claude-code?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://openai.com/codex/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://cursor.com/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://devin.ai/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/p/pissou-picsou?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://www.linkedin.com/in/bruno-marchand-63524728/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/p/tu-magasines-ils-courent?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/in/sergebeauchemin/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/in/sergebeauchemin/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://aqccapital.ca/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://conf.saaspasse.com/commanditaires/aqc-capital?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://aqccapital.ca/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/in/guillaume-falardeau-b213768b/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/in/guillaume-falardeau-b213768b/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/guillaume-falardeau-b213768b_je-suis-en-train-de-vendre-ma-compagnie-activity-7376253077454221313-HBfs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtGvEwBMjZr6fTGqSsX7sYnLbJ1Y9DB7lA"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/le-chiffre_saviez-vous-que-activity-7374864867469688832-5k5o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtGvEwBMjZr6fTGqSsX7sYnLbJ1Y9DB7lA"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/le-chiffre?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/c/saaspals?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/upgrade?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/le-chiffre?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/leviat-legal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/baseline?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/unicorne?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/apollo13?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/vasco?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.saaspasse.com/partenaires/missive?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/guillaume-falardeau-b213768b_je-suis-en-train-de-vendre-ma-compagnie-activity-7376253077454221313-HBfs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtGvEwBMjZr6fTGqSsX7sYnLbJ1Y9DB7lA"
+    },
+    {
+      "url": "https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=2175264455&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=41dc209695&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://x.com/SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.instagram.com/saaspasse/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.youtube.com/@SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://www.linkedin.com/company/saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/upgrade?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://saaspasse.beehiiv.com/subscribe/{{subscriber_id}}/preferences?post_id=5e781b3e-f735-4988-9276-01533de584e6&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "url": "https://www.beehiiv.com/?utm_campaign=5e781b3e-f735-4988-9276-01533de584e6&utm_medium=post_email&utm_source=saaspasse"
+    }
+  ],
+  "infolettres_mentionnees": [
+    {
+      "titre": "Read Online",
+      "url": "https://saaspasse.beehiiv.com/p/barbell?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "titre": "Lis ça",
+      "url": "https://saaspasse.beehiiv.com/p/ca-fait-pas-assez-mal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "titre": "ou ça",
+      "url": "https://saaspasse.beehiiv.com/p/fais-moi-rever-un-peu?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "titre": "Bâtir la distribution",
+      "url": "https://saaspasse.beehiiv.com/p/gravite-numerique?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "titre": "du courage",
+      "url": "https://saaspasse.beehiiv.com/p/pissou-picsou?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    },
+    {
+      "titre": "Tu magasines, ils courent",
+      "url": "https://saaspasse.beehiiv.com/p/tu-magasines-ils-courent?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell&last_resource_guid=Post%3A5e781b3e-f735-4988-9276-01533de584e6"
+    }
+  ],
+  "podcasts_mentionnes": [
+    {
+      "titre": "m’expliquait",
+      "YouTube URL": "https://www.youtube.com/watch?v=BWLS3yvR82w&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "titre": null,
+      "YouTube URL": "https://www.youtube.com/@SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Émilie Carignan",
+      "linkedin": "https://www.linkedin.com/in/emiliecarignan/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "nom": "Bruno",
+      "linkedin": "https://www.linkedin.com/in/bruno-marchand-63524728/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "nom": "Frank",
+      "linkedin": "https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "nom": null,
+      "linkedin": "https://www.linkedin.com/in/sergebeauchemin/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "nom": "Serge et moi qui le trouve toujours ben funny",
+      "linkedin": "https://www.linkedin.com/in/sergebeauchemin/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "nom": null,
+      "linkedin": "https://www.linkedin.com/in/guillaume-falardeau-b213768b/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    },
+    {
+      "nom": "Guillaume Falardeau, programmeur en cravate (lollll es-tu tanné de ce titre, Gui?)",
+      "linkedin": "https://www.linkedin.com/in/guillaume-falardeau-b213768b/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    }
+  ],
+  "compagnies": [
+    {
+      "nom": null,
+      "linkedin": "https://www.linkedin.com/company/saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=barbell"
+    }
+  ],
+  "produits": [
+    {
+      "nom": "Clay",
+      "domaine": "www.clay.com"
+    }
+  ],
+  "jobs": []
+}

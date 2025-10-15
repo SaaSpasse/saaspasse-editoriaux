@@ -1,0 +1,401 @@
+---
+date: '2024-09-20'
+title: Ça fait pas assez mal
+url: https://saaspasse.beehiiv.com/p/ca-fait-pas-assez-mal
+slug: ca-fait-pas-assez-mal
+source: beehiiv
+word_count: 1624
+reading_time_min: 9
+editorial_confidence: high
+liens_internes: 10
+liens_externes: 24
+top_domains:
+- domain: www.linkedin.com
+  count: 6
+- domain: saaspasse.us21.list-manage.com
+  count: 3
+- domain: youtu.be
+  count: 2
+- domain: www.facebook.com
+  count: 1
+- domain: twitter.com
+  count: 1
+utm_detectes:
+- url: https://saaspasse.beehiiv.com/p/ca-fait-pas-assez-mal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794
+- url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fca-fait-pas-assez-mal&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://twitter.com/intent/tweet?text=Le+paradoxe+de+la+re%CC%81gion-beta+%F0%9F%AB%A5&url=https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fca-fait-pas-assez-mal&via=frankhellend&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.threads.net/intent/post?text=Le+paradoxe+de+la+re%CC%81gion-beta+%F0%9F%AB%A5+https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fca-fait-pas-assez-mal&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fsaaspasse.beehiiv.com%2Fp%2Fca-fait-pas-assez-mal&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://en.wikipedia.org/wiki/Region-beta_paradox?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://youtu.be/M44L4umhxpQ?t=4286&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://youtu.be/Dl5VtlOyTx0?t=1377&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://youtube.com/shorts/LR1Rr-LwIjc?si=riYpSPxbxSwrs3Q9&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.intercom.com/resources/books/intercom-jobs-to-be-done?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.saaspasse.com/lajobdumois?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://saaspasse.com/lajobdumois?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.linkedin.com/company/qgentrepreneuriat/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.linkedin.com/in/shawnyoung1/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.linkedin.com/company/hmhlearn/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.eventbrite.ca/e/saaspasse-a-sherbrooke-edition-11-tickets-1013854184157?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://saaspasse.beehiiv.com/upgrade?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794
+- url: https://www.saaspasse.com/partenaires/le-chiffre?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.saaspasse.com/partenaires/leviat-legal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.saaspasse.com/partenaires/baseline?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.saaspasse.com/partenaires/coveo?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.saaspasse.com/episode/episode-104-marjorie-doucet-design-defis-echecs----10-ans-pour-trouver-son-x-en-tech?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=2175264455&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=41dc209695&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://x.com/SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.instagram.com/saaspasse/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.youtube.com/@SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://www.linkedin.com/company/saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- url: https://saaspasse.beehiiv.com/upgrade?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794
+- url: https://saaspasse.beehiiv.com/subscribe/{{subscriber_id}}/preferences?post_id=47da4e48-b1bc-417d-9146-2ceed0985794&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794
+- url: https://www.beehiiv.com/?utm_campaign=47da4e48-b1bc-417d-9146-2ceed0985794&utm_medium=post_email&utm_source=saaspasse
+infolettres_mentionnees:
+- titre: Read Online
+  url: https://saaspasse.beehiiv.com/p/ca-fait-pas-assez-mal?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794
+podcasts_mentionnes:
+- titre: short
+  YouTube URL: https://youtube.com/shorts/LR1Rr-LwIjc?si=riYpSPxbxSwrs3Q9&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- titre: 'EP.104 Marjorie Doucet : Design, défis & échecs — 10 ans pour trouver son X en tech'
+  Site web URL: https://www.saaspasse.com/episode/episode-104-marjorie-doucet-design-defis-echecs----10-ans-pour-trouver-son-x-en-tech?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- titre: null
+  YouTube URL: https://www.youtube.com/@SaaSpasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+personnes:
+- nom: Frank
+  linkedin: https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- nom: Shawn Young
+  linkedin: https://www.linkedin.com/in/shawnyoung1/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+compagnies:
+- nom: QG de l'entrepreneuriat
+  linkedin: https://www.linkedin.com/company/qgentrepreneuriat/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- nom: HMH
+  linkedin: https://www.linkedin.com/company/hmhlearn/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+- nom: null
+  linkedin: https://www.linkedin.com/company/saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal
+---
+
+
+# Éditorial (copywriting)
+
+<!-- editorial:start -->
+What’s up folks,
+
+Merci d’être là. Je commence par mon édito—les nouvelles après. 🪶
+
+J’aurais dû renvoyer la personne **beaucoup** plus tôt.
+
+Classique.
+
+Quand je demande aux invités de partager des erreurs, celle-là revient.
+
+Pourquoi?
+
+**Parce que ça ne faisait pas assez mal.**
+
+La personne fait quelques erreurs, amène quelques irritants, essuie quelques retards. Un peu de *pain* chaque semaine… pendant des mois.
+
+(ou des années 😖)
+
+Mais* WHAT IF* la personne renverse une table dans un meeting et insulte tout le monde?
+
+Ah, **LÀ**, on la renvoie.
+
+Parce que ça a fait assez mal.
+
+Les pauvres gestionnaires dans cette histoire pas-tant-fictive sont pognés dans [le paradoxe de la région-beta](https://en.wikipedia.org/wiki/Region-beta_paradox?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal).
+
+On agit plus vite pour résoudre un gros problème qu’un petit inconfort. Paradoxalement, le petit inconfort qu’on traîne cause plus de douleur totale que le gros problème :
+
+On aborde ça dans l’épisode avec Phil Chartrand ([timestamp](https://youtu.be/M44L4umhxpQ?t=4286&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)).
+
+FWIW, ce paradoxe flirte fréquemment avec le biais des coûts irrécupérables, AKA *sunk cost fallacy*.
+
+Au coeur de ce paradoxe, y’a aussi le principe de base de la motivation — j’en parle plus bas.
+
+#### Exemples SaaS
+
+Comment utiliser ce modèle dans nos SaaS?
+
+On a déjà vu l’exemple *Ne pas renvoyer une embauche trop moyenne* en intro.
+
+Mais il y en a d’autres :
+
+- **Ne pas monter ton pricing par peur de perdre des clients**
+
+🤕 Le petit ouch : t’as déjà des revenus, une certaine croissance. Okay, ton ARPU et *churn* ne sont pas top top… Oui, beaucoup du support va à des clients pas super payants… mais pourquoi tenter le diable? Pas si pire, laisser un peu de fric sur la table!
+
+😵 Le gros OUCH : si la **majorité** de tes utilisateurs *high-churn low-ARPU* migraient vers un compétiteur agressif sur le freemium, ou un plus gros joueur qui remplace 80% de ton SaaS avec une feature gratis. **LÀ**, tu retravaillerais ton modèle pour acquérir des clients plus sérieux, offrir plus de valeur, et monter ton pricing.
+
+Si tu veux te rafraîchir le pricing, Jean Gab du Chiffre en a parlé en masse sur le pod ([timestamp](https://youtu.be/Dl5VtlOyTx0?t=1377&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)).
+
+- **Ne pas éliminer des initiatives marketing sous-performantes parce que ça marche un peu**
+
+🤕 Le petit ouch : les pubs payantes te ramènent une couple de cents sur la piastre. Ton équipe marketing n’est pas *stoked*, toi non plus. Vous vous dites qu’au moins personne mise sur vos mots-clés de marque, et que vous restez “top-of-mind” chez votre cible.
+
+😵 Le gros OUCH : si ton CPC quintuplait tout d’un coût, ou bien si tu perdais accès à ton compte publicitaire Meta / Google. **LÀ**, tu te botterais le cul pour trouver & prouver un canal d’acquisition soutenable avec un vrai ROI de *baller*.
+
+(BTW, je ne *diss* pas l’acquisition payante ici. La solution au gros OUCH pourrait très bien être de designer des campagnes PPC payantes sur une plateforme XYZ. Ou de trouver une personne capable de le faire — voir exemple en intro!)
+
+- **Ne pas fixer des bugs à basse priorité même si ça ***pop ***toujours sur le support**
+
+🤕 Le petit ouch : t’as 4-5 tickets par semaine où ça chiale sur des petits bugs (lenteurs, mauvais formatting, crashes). Ça ne te tente pas d’ouvrir la boîte de Pandore du refactoring, donc tu les laisses poireauter. Tu réponds juste quand tous les autres tickets sont réglés.
+
+😵 Le gros OUCH : si **tout ton système** plantait pour **tous tes utilisateurs** pendant deux jours. **LÀ**, tu optimiserais ton code et améliorerait tes processus de support *big time*. Tu en profiterais sûrement pour être méga proactif et empathique dans tes communications clients ET produit. Tu fidéliserais probablement un paquet de monde!
+
+Bon, ça fait trois exemples et six emojis souffrant — tu piges mon point?
+
+Coup de théâtre; je n’ai même pas fini!
+
+**Tes clients aussi peuvent vivre dans cette zone paradoxale-là.**
+
+Tu sais, dans l’inertie ou dans le vieux “*if it ain’t broke don’t fix it*”…
+
+En SaaS, on compétitionne régulièrement avec le statu quo* pour l’adoption de nos produits. Vanessa Dreifuss d’Unito en parlait sur le pod ([short](https://youtube.com/shorts/LR1Rr-LwIjc?si=riYpSPxbxSwrs3Q9&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)).
+
+*Et oui, le statu quo, c’est souvent Excel. J’en reparlerai dans un autre post.
+
+Deux conseils ici :
+
+1. **Comprendre le modèle de base de la motivation**
+
+   - Comme j’ai appris en thérapie, l’individu agit par motivation d’évitement ou d’approche :  Évitement = je veux m’éloigner d’irritants.  Approche = je veux me rapprocher de bénéfices.
+
+   - Si la conversion et/ou l’activation branlent dans le manche, c’est sûrement par manque de motivation.
+
+2. **Comprendre le modèle de JTBD (Jobs-to-be-Done)**
+
+   - Lisez ça, pour vrai. La prémisse : on embauche ton produit pour faire une job. Faut que tu catch ladite job pour vendre ledit produit.
+
+   - Le modèle JTBD permet de comprendre l’ensemble de l’environnement décisionnel d’utilisateurs potentiels :  Quels problèmes ils veulent régler  Comment ils ont essayé de les régler  Quels outils ils utilisent fréquemment  Avec qui ils travaillent  Qui décide du budget  Qui / quoi les influencent quand / comment dans leurs décisions  Qu’est-ce qu’ils veulent éviter  De quoi ils veulent se rapprocher  etc.
+
+Avec ces deux modèles, tu peux raconter des histoires plus motivantes. Meilleur messaging, positionnement, marketing, copy, UX, etc.
+
+Si tu veux que j’écrive plus là-dessus, LMK.
+
+#### Le *flipside *🛹
+
+Ma dissonance cognitive vire dans le tapis *live*-là.
+
+Je trouve **extrêmement difficile** de balancer le paradoxe région-beta avec le biais pour la sur-optimisation.
+
+Premièrement — on a l’automatisation facile en tech. Face à un problème, l’esprit ingénieur répond par ÉCRIRE PLUS DE CODE.
+
+(Ou faire plus de *no-code automations*, hehe)
+
+Deuxièmement — on manque de ressources en startup. Face à dix problèmes, on doit prioriser celui qui fait le plus mal.
+
+Où je m’en vais avec mes skis : **y’a des petits ***ouch*** qui ne méritent pas de solutions sophistiquées**.
+
+Ça se gère. La meilleure façon que j’ai trouvée?
+
+S’ancrer sur des objectifs d’affaires clairs et une méthode de priorisation claire.
+
+Les objectifs d’affaires qu’on avait chez Snipcart ressemblaient à :
+
+- Augmenter le MRR de X%
+
+- Réduire le churn à Y%
+
+- Augmenter le taux d’activation à Z%
+
+Et voici comment on priorisait :
+
+Quand c’était moi le YOLO product owner
+
+*Hope this helps*, comme ils disent dans le milieu.
+
+As-tu quelque chose à ajouter? Si oui, *good*! Laisse un commentaire ou réponds à ce courriel direct.
+
+Cheers,
+
+[Frank](https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal) 💜
+<!-- editorial:end -->
+
+What’s up folks,
+
+Merci d’être là. Je commence par mon édito—les nouvelles après. 🪶
+
+J’aurais dû renvoyer la personne **beaucoup** plus tôt.
+
+Classique.
+
+Quand je demande aux invités de partager des erreurs, celle-là revient.
+
+Pourquoi?
+
+**Parce que ça ne faisait pas assez mal.**
+
+La personne fait quelques erreurs, amène quelques irritants, essuie quelques retards. Un peu de *pain* chaque semaine… pendant des mois.
+
+(ou des années 😖)
+
+Mais* WHAT IF* la personne renverse une table dans un meeting et insulte tout le monde?
+
+Ah, **LÀ**, on la renvoie.
+
+Parce que ça a fait assez mal.
+
+Les pauvres gestionnaires dans cette histoire pas-tant-fictive sont pognés dans [le paradoxe de la région-beta](https://en.wikipedia.org/wiki/Region-beta_paradox?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal).
+
+On agit plus vite pour résoudre un gros problème qu’un petit inconfort. Paradoxalement, le petit inconfort qu’on traîne cause plus de douleur totale que le gros problème :
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1958fbbb-6134-4571-a998-be0d6b8df164/Le_paradoxe_de_la_re%CC%81gion-beta.png?t=1726491950)
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f62a77be-e62e-40e1-af82-f1b72730c701/CleanShot_2024-09-16_at_11.16.07.png?t=1726500035)
+
+On aborde ça dans l’épisode avec Phil Chartrand ([timestamp](https://youtu.be/M44L4umhxpQ?t=4286&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)).
+
+FWIW, ce paradoxe flirte fréquemment avec le biais des coûts irrécupérables, AKA *sunk cost fallacy*.
+
+Au coeur de ce paradoxe, y’a aussi le principe de base de la motivation — j’en parle plus bas.
+
+#### Exemples SaaS
+
+Comment utiliser ce modèle dans nos SaaS?
+
+On a déjà vu l’exemple *Ne pas renvoyer une embauche trop moyenne* en intro.
+
+Mais il y en a d’autres :
+
+- Ne pas monter ton pricing par peur de perdre des clients
+
+🤕 Le petit ouch : t’as déjà des revenus, une certaine croissance. Okay, ton ARPU et *churn* ne sont pas top top… Oui, beaucoup du support va à des clients pas super payants… mais pourquoi tenter le diable? Pas si pire, laisser un peu de fric sur la table!
+
+😵 Le gros OUCH : si la **majorité** de tes utilisateurs *high-churn low-ARPU* migraient vers un compétiteur agressif sur le freemium, ou un plus gros joueur qui remplace 80% de ton SaaS avec une feature gratis. **LÀ**, tu retravaillerais ton modèle pour acquérir des clients plus sérieux, offrir plus de valeur, et monter ton pricing.
+
+Si tu veux te rafraîchir le pricing, Jean Gab du Chiffre en a parlé en masse sur le pod ([timestamp](https://youtu.be/Dl5VtlOyTx0?t=1377&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)).
+
+- Ne pas éliminer des initiatives marketing sous-performantes parce que ça marche un peu
+
+🤕 Le petit ouch : les pubs payantes te ramènent une couple de cents sur la piastre. Ton équipe marketing n’est pas *stoked*, toi non plus. Vous vous dites qu’au moins personne mise sur vos mots-clés de marque, et que vous restez “top-of-mind” chez votre cible.
+
+😵 Le gros OUCH : si ton CPC quintuplait tout d’un coût, ou bien si tu perdais accès à ton compte publicitaire Meta / Google. **LÀ**, tu te botterais le cul pour trouver & prouver un canal d’acquisition soutenable avec un vrai ROI de *baller*.
+
+(BTW, je ne *diss* pas l’acquisition payante ici. La solution au gros OUCH pourrait très bien être de designer des campagnes PPC payantes sur une plateforme XYZ. Ou de trouver une personne capable de le faire — voir exemple en intro!)
+
+- Ne pas fixer des bugs à basse priorité même si ça pop toujours sur le support
+
+🤕 Le petit ouch : t’as 4-5 tickets par semaine où ça chiale sur des petits bugs (lenteurs, mauvais formatting, crashes). Ça ne te tente pas d’ouvrir la boîte de Pandore du refactoring, donc tu les laisses poireauter. Tu réponds juste quand tous les autres tickets sont réglés.
+
+😵 Le gros OUCH : si **tout ton système** plantait pour **tous tes utilisateurs** pendant deux jours. **LÀ**, tu optimiserais ton code et améliorerait tes processus de support *big time*. Tu en profiterais sûrement pour être méga proactif et empathique dans tes communications clients ET produit. Tu fidéliserais probablement un paquet de monde!
+
+Bon, ça fait trois exemples et six emojis souffrant — tu piges mon point?
+
+Coup de théâtre; je n’ai même pas fini!
+
+**Tes clients aussi peuvent vivre dans cette zone paradoxale-là.**
+
+Tu sais, dans l’inertie ou dans le vieux “*if it ain’t broke don’t fix it*”…
+
+En SaaS, on compétitionne régulièrement avec le statu quo* pour l’adoption de nos produits. Vanessa Dreifuss d’Unito en parlait sur le pod ([short](https://youtube.com/shorts/LR1Rr-LwIjc?si=riYpSPxbxSwrs3Q9&utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)).
+
+*Et oui, le statu quo, c’est souvent Excel. J’en reparlerai dans un autre post.
+
+Deux conseils ici :
+
+1. Comprendre le modèle de base de la motivation Comme j’ai appris en thérapie, l’individu agit par motivation d’évitement ou d’approche :  Évitement = je veux m’éloigner d’irritants.  Approche = je veux me rapprocher de bénéfices.  Si la conversion et/ou l’activation branlent dans le manche, c’est sûrement par manque de motivation.
+2. Comprendre le modèle de JTBD (Jobs-to-be-Done)Lisez ça, pour vrai. La prémisse : on embauche ton produit pour faire une job. Faut que tu catch ladite job pour vendre ledit produit.  Le modèle JTBD permet de comprendre l’ensemble de l’environnement décisionnel d’utilisateurs potentiels :  Quels problèmes ils veulent régler  Comment ils ont essayé de les régler  Quels outils ils utilisent fréquemment  Avec qui ils travaillent  Qui décide du budget  Qui / quoi les influencent quand / comment dans leurs décisions  Qu’est-ce qu’ils veulent éviter  De quoi ils veulent se rapprocher  etc.
+
+Avec ces deux modèles, tu peux raconter des histoires plus motivantes. Meilleur messaging, positionnement, marketing, copy, UX, etc.
+
+Si tu veux que j’écrive plus là-dessus, LMK.
+
+#### Le *flipside *🛹
+
+Ma dissonance cognitive vire dans le tapis *live*-là.
+
+Je trouve **extrêmement difficile** de balancer le paradoxe région-beta avec le biais pour la sur-optimisation.
+
+Premièrement — on a l’automatisation facile en tech. Face à un problème, l’esprit ingénieur répond par ÉCRIRE PLUS DE CODE.
+
+(Ou faire plus de *no-code automations*, hehe)
+
+Deuxièmement — on manque de ressources en startup. Face à dix problèmes, on doit prioriser celui qui fait le plus mal.
+
+Où je m’en vais avec mes skis : **y’a des petits ***ouch*** qui ne méritent pas de solutions sophistiquées**.
+
+Ça se gère. La meilleure façon que j’ai trouvée?
+
+S’ancrer sur des objectifs d’affaires clairs et une méthode de priorisation claire.
+
+Les objectifs d’affaires qu’on avait chez Snipcart ressemblaient à :
+
+- Augmenter le MRR de X%
+- Réduire le churn à Y%
+- Augmenter le taux d’activation à Z%
+
+Et voici comment on priorisait :
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b7e93ed3-b67c-4258-a7c8-795f20459e93/image.png?t=1726532501)
+
+Quand c’était moi le YOLO product owner
+
+*Hope this helps*, comme ils disent dans le milieu.
+
+As-tu quelque chose à ajouter? Si oui, *good*! Laisse un commentaire ou réponds à ce courriel direct.
+
+Cheers,
+
+[Frank](https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal) 💜
+
+#### **La job du mois SaaSpasse**
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/f272f272-a3cb-48f8-bcc5-a2bea84b1dfb/Missive_job.jpg?t=1726230254)
+
+Missive sont à la recherche d’un **Head of Marketing **pour systématiser leur acquisition client. Une tête marketing avec de l’XP pas mal, qui a pas peur de se salir les mains. 
+
+💰 **Fourchette de salaire : 125-160K CAD. **
+
+On utilisait Missive chez Snipcart, et on l’utilise encore aujourd’hui chez SaaSpasse. C’est de la bombe comme produit & poste à combler — sautez là-dessus.
+
+Missive ont de solides joueurs en place, des coffres remplis, et un potentiel de fou — Tu veux faire partie de cette histoire-là.
+
+Consultez l’offre et l’entrevue sur [saaspasse.com/lajobdumois](https://saaspasse.com/lajobdumois?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal).
+
+#### **SaaSpasse à Sherbrooke - Édition 11**
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5fa20290-6909-48cf-8f01-f448ebae856f/SaaSpasseSherbrooke.png?t=1726238538)
+
+Sherbrooke, on débarque le 25 octobre! 
+
+Prochain arrêt : le [QG de l'entrepreneuriat](https://www.linkedin.com/company/qgentrepreneuriat/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal) pour enregistrer un podcast live avec nul autre que [Shawn Young](https://www.linkedin.com/in/shawnyoung1/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal), SVP chez [HMH](https://www.linkedin.com/company/hmhlearn/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal) (ex-ClassCraft).
+
+📣 **SCOOP : **On a déjà plusieurs billets de vendus et on peut vous dire que y’a une bonne gang de chez Agendrix qui sera sur place — Si jamais t’as envie de parler à du monde qui proviennent d’un maudit beau SaaS de la région… réserve ta place!
+
+C’est juste 30$ et ça vient avec la bouffe + les drinks!
+
+**Détails & billets** : [ICI](https://www.eventbrite.ca/e/saaspasse-a-sherbrooke-edition-11-tickets-1013854184157?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)
+
+#### **SaaSpal Crew**
+
+Nos SaaSpals ont maintenant accès à notre roadmap d’enregistrement pour le podcast. Autrement dit, ils ont reçu notre liste d’invités à venir et pourront soumettre leurs questions. Moi, je prends ces questions-là et je les pose directement aux invités en studio en mentionnant leur nom (avec approbation, évidemment).
+
+Si ça t'intéresse d’avoir accès à ce genre de privilège, jette un coup d’œil à nos forfaits payants & les perks qui viennent avec :
+[https://saaspasse.beehiiv.com/upgrade](https://saaspasse.beehiiv.com/upgrade?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal&last_resource_guid=Post%3A47da4e48-b1bc-417d-9146-2ceed0985794)
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/782c58f4-2f58-4032-92f6-014a63121bc8/TOP_SECRET__.png?t=1726758720)
+
+#### **Les partenaires SaaSpasse**
+
+HUGE merci à tous nos partenaires certifiés pour cette année :
+
+- Le Chiffre 🧾
+- Leviat 👨‍⚖️
+- Baseline 🤖
+- Coveo 🦄
+
+#### **Podcast**
+
+Voici le dernier épisode du pod : 
+
+[EP.104 Marjorie Doucet : Design, défis & échecs — 10 ans pour trouver son X en tech](https://www.saaspasse.com/episode/episode-104-marjorie-doucet-design-defis-echecs----10-ans-pour-trouver-son-x-en-tech?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=ca-fait-pas-assez-mal)
+
+Vous n’êtes pas abonnés encore au pod? Let’s go :
+
+- Spotify
+- Apple Podcasts
+- YouTube

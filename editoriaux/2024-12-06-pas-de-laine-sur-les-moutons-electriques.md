@@ -1,0 +1,301 @@
+What's up folks,
+
+Merci d'être là. Je commence par mon édito—les nouvelles après. 🪶
+
+"Y'a quelques années, j'aurais sûrement payé **5000$** pour tout ça…"
+
+Je fixe Joëlle à travers ma cam. Suspense.
+
+"Pis là… ça nous coûte juste **29.40$**/mois!"
+
+*Boom* — je finis ma démo de Claude, triomphant.
+
+Elle me félicite d'un sobre hochement de tête. *Damn it*, une vraie dure à cuire.
+
+Depuis ma réalisation que [Claude n'était pas un AI de pauvre](https://www.linkedin.com/posts/activity-7244847462039842816-kphV?utm_source=share&utm_medium=member_desktop), je l'utilise pas mal. On lui a DUMP nos données IG, LI, YT, Spotify dans un *prompt* enrobé de nos questions.
+
+La qualité de son *data visualization* *output* m’a impressionné BIG TIME.
+
+En 2020, j'aurais attendu après dev ou analyste des semaines de temps. Ou des mois.
+
+On entend tout plein d'opinions tranchées sur l'AI rendant nos jobs tech obsolètes. Perso, je lis une couple de tweets, je buzz deux minutes, et je continue à construire.
+
+Mais cette fois-ci, mon deux minutes s'est transformé en éditorial.
+
+*Let’s go*, plonge avec moi dans le pas creux de l’AI 👇
+
+### Le fond de mon pas creux AI
+
+Témoin de mon maigre éclair de génie paresse, t’exclameras-tu :
+
+“Frank, Frank, Frank… c’est **statique** comme *dataset*! Tes données périssent à vue d’oeil!”
+
+Et je rétorquerai :
+
+*“Homie*, *check*—on roule pas une boîte qui doit micro-optimiser ses opérations au quotidien. D’abord et avant tout, notre job = livrer du contenu de feu et bâtir une communauté.
+
+MAIS, nous ne sommes pas de vulgaires barbares numériques non plus chez SaaSpasse. De temps en temps, on se décolle le nez du *grind* voir *WTF is up* avec nos chiffres. Pour ajuster le tir.
+
+Et Claude nous a pondu de jolies visualisations de données juste-à-temps pour ça.
+
+*Basically* des apps React qui roulent dans son environnement, accessibles publiquement sous forme d’**artefacts**.
+
+Après avoir demandé un peu de 🟪**mauve**🟪 pour avoir l’air plus pro, on avait des interfaces dynamiques :
+
+*Again* — fut un temps où j’aurais dépensé des milliers de dollars pour avoir ces tableaux.
+
+1. parce que je suis lâche
+
+2. parce que j’ai le luxe d’avoir une business qui fait juste assez d’argent pour se permettre ces dépenses
+
+Mais là, mon *bwoi* Claude m’a généré tout ça en quelques minutes!
+
+Si j’avais eu la patience de comprendre & configurer un agent AI pour aller chercher, télécharger et téléverser les données dans Claude 🤌
+
+Meh, un prochain édito *I guess?* Écris-moi juste si tu es capable de me l’expliquer comme si j’étais une carotte.
+
+Je check de temps en temps le stock de [Greg Isenberg](https://www.linkedin.com/in/gisenberg/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques) (*calling my shot*, un jour il sera sur le pod). Ça tourne souvent autour de “construis une app pour zéro piastre en une heure avec Cursor, V0, Claude, Replit, [bolt.new](https://bolt.new?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques), etc.”.
+
+(en vrai ça parle aussi un sh*t ton de commercialisation → au coeur de sa thèse à la “new startup models”)
+
+C’est cool, mais je ne prenais vraiment le temps de creuser. Dimanche soir, je l’ai pris, avec [bolt.new](https://bolt.new?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques) — **gotdayum** me suis couché tard.
+
+Après cette saucette nocturne GenAI, j’en suis ressorti le toupet mouillé avec cet outil bien utile :
+
+[Voir le site live](https://saaspasse-promos.netlify.app/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques)
+
+En 2017 j’ai fait un site comme ça avec un ami web dev on a passé une journée au complet dessus. Même si on avait été 2x meilleur… le site ci-haut m’a pris max. un deux heures à générer + peaufiner, juste via quelques aller-retour de dialogue en franglais.
+
+ANYWAY — mon point pour SaaSpasse est fait. On n’a pas besoin de *live* data nécessairement. On n’a pas besoin de dev/designer pour construire de simples *assets*.
+
+Sick.
+
+La suite logique :
+
+Okay quoi d’autre est-ce qu’on va pouvoir prompter pour quelques piastres seulement?
+
+Et surtout :
+
+Qu’est-ce qu’on pourra jamais{?} juste prompter?
+
+Considère ça un temporaire *take* sur commodités vs irremplaçables à l’ère de l’intelligence artificielle. Et ce que ça veut dire pour ton SaaS.
+
+## Avertissements
+
+- Je n’écris pas de code, donc facile à dire que c’est “commodifié”
+
+- J’écris du *copy* tout court, donc plus difficile de l’avouer pour ça 😂
+
+- Ça se peut que dans un an je change d’idée—vérités temporaires FTW et souplesse mentale en temps incertains
+
+- Pas eu le temps de voir les fancy AI agents sont rendus où, m’a sûrement regarder durant les fêtes (si tu connais et veux me faire une démo, *reach out*)
+
+- J’ai déjà écrit là-dessus en 2023, pour les bases du GenAI et mes premières impressions risques vs opportunités SaaS :
+
+  - Work Worry Wonder : modèle mental pour IA & SaaS (P1)
+
+  - Work Worry Wonder : modèle mental IA & SaaS (P2)
+
+## Les commodités
+
+J’écourte volontairement cette section. La précédente la supporte assez.
+
+Mais IMO, voici les nouvelles commodités en tech :
+
+- Le code
+
+- Le copy
+
+- Le contenu visuel
+
+- Le contenu audio
+
+Pour l’instant, certains contenus se génèrent moins facilement que d’autres (ex. vidéo). Mais la barrière d’accessibilité descend plus vite que l’astéroïde dans Armageddon en 1998.
+
+Y’a deux ans, je me battais avec Midjourney pour atteindre un soupçon de constance en générant le même personnage dans différentes scènes.
+
+Aujourd’hui, y’a littéralement un bouton pour ça, dans un éditeur visuel *dummy proof* parfait pour Frank.
+
+## Les irremplaçables
+
+Bon, là y’a de la viande autour de l’os.
+
+Mon premier irremplaçable est un concept volé à Bitcoin—[proof of work](https://en.wikipedia.org/wiki/Proof_of_work?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques#:~:text=Proof%20of%20work%20(PoW)%20is,computational%20effort%20has%20been%20expended.)—remixé à ma sauce. Ben oui, j’ai l’doua.
+
+### La preuve de travail (humain)
+
+Est-ce qu’il y a quelque chose qui fait plus rouler des yeux que de lire un post clairement rédigé par l’IA?
+
+Ou pire : d’apprendre qu’un post qu’on aimait a été généré par l’IA.
+
+Exemple, ça c’est cool 👇
+
+retombé dans le trou à 🐰 Midjourney. new editor=insane. pense p-ê faire micro BD ‘aventures du SaaSpaladin’ par édito. pour SaaSpals tho. réponds Paladin à ce mail pour voter oui
+
+Mais je l’ai généré en ajustant une dizaine de *prompts* dans Midjourney. Trente minutes?
+
+Alors que ça :
+
+C’est Moebius AKA Gir AKA Jean Giraud (RIP) qui a illustré ça à la main en 1976 pour la sixième édition de Métal Hurlant, un magazine français de bande dessinée de science-fiction qui a révolutionné le genre. Ça a directement influencé des oeuvres comme Alien, Blade Runner et Le Cinquième Élément.
+
+Sans oublier notre *boy* :
+
+Je suis un enfant de Métal Hurlant.
+
+**Quelle image vaut le plus cher?**
+
+La première, c’est *good ol’* Frank qui a recherché et mixé 3-4 styles d’illustrateurs *edgy* (sur ChatGPT) puis itérer sur une couple de petite phrases dans un logiciel en ligne (sur Midjourney). Un trip de fin de semaine.
+
+L’autre, c’est l’aboutissement d’une vie de dévouement à un art et d’exploration pionnière d’un genre quasi-saturé. Avec un héritage incommensurable.
+
+Ça, c’est mon point sur l’art.
+
+Et l’artisanat, *I guess*.
+
+On valorise ($) encore le *proof of work* humain, i.e. la preuve qu’une vraie personne a sué / saigné / soupiré / souffert sur une oeuvre avant de la finir.
+
+À quel point? Je le sais pas. Je ne *deal* pas dans l’absolu.
+
+**Note** : ça revient aussi au [pouvoir des histoires](https://saaspasse.beehiiv.com/p/fais-moi-rever-un-peu?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques&last_resource_guid=Post%3Ac7292606-55a2-4a79-809b-9ee19c5e2c71), des héros. Exemple, dans ce [blind test AI vs human art](https://futurism.com/people-prefer-ai-art-blind-test?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques), y’a pas d’histoires avec les artistes.
+
+Prends le temps de lire ça :
+
+*Meeting your firstborn child*
+
+379 mots, 3-5m de lecture
+
+Le contraste entre le *output* d’écriture générée par l’IA vs celui d’Eddie dans ce mini essai illustre bien mon point sur la valeur intrinsèque de l’art nourri par l’expérience humaine.
+
+Okay, zoom SaaS 🔍
+
+## Quels sont vos ajouts de valeur uniques?
+
+### Jus de coude vs jus de cerveau
+
+Les outils d’IA transforment des tâches de jus de cerveau en tâches de jus de coude (commodités). Ta job = identifier quelle tâche fit dans quelle catégorie.
+
+Prenons mon exemple SaaSpasse de visualisation de données.
+
+Est-ce que l’acte de collecter, trier, afficher la data était une valeur ajoutée unique pour notre équipe?
+
+Non.
+
+Notre valeur unique s’ajoutait dans les décisions qu’on prendrait après analyse de la data.
+
+Des décisions informées par notre expérience, notre expertise, **et notre intuition**. La quantité de data qui réside au coeur de l’expérience humaine est vaste. Très, très vaste.
+
+Peut-être un jour l’AI prendra de meilleures décisions stratégiques et créatives que nous. Mais comme disait Syrio à Arya :
+
+### Le H2H
+
+Y’a ce *pattern* profondément ancré dans nos gènes : apprendre et connecter avec d’autres humains. On apprend, on s’associe par imitation.
+
+Pas pour rien qu’on parle de preuve sociale et d’effet de réseau comme énormes leviers de conversion en SaaS.
+
+Si tu me lis un minimum, tu me sais gros fan du H2H (human-to-human). J’en parle dans [cet édito](https://saaspasse.beehiiv.com/p/pas-de-chauffeur-dans-mon-taxi?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques&last_resource_guid=Post%3Ac7292606-55a2-4a79-809b-9ee19c5e2c71) si jamais :
+
+C’est plus le fun voir ta charge mensuelle sur ta CC quand tu connais & respecte le vrai monde qui bâtissent le logiciel derrière.
+
+L’opinion, le conseil, l’expérience, les histoires d’autres humains — on se lance là-dessus comme les insectes nocturnes sur ma vieille lanterne de perron.
+
+**Histoire de service à la clientèle**
+
+En sortant du Studio SF, on souriait. Le technicien là-bas, Max, nous a accueilli avec un *fist bump* et un sourire, s’est intéressé à notre décor, nous a aidé à le monter, a fait des cafés pour nous+notre invité, a offert de descendre le stock avec nous… Rien de sorcier là-dedans. Mais ça ne prend pas grand chose pour mettre un peu de magie dans une expérience client. Juste un soupçon de travail humain saupoudré de bonne foi.
+
+### Les données rares
+
+C’est un *play* qui trotte dans ma tête depuis un bout.
+
+Où/comment collecter/nettoyer une quantité assez importante de données rares, spécifiques à une industrie? Peut-être bien avec SaaSpasse, à voir.
+
+Dans votre SaaS, y’en a peut-être déjà plus que tu penses. *Benchmarks*, moyennes, tendances, prévisions, démographiques, préférences, etc.
+
+L’output des modèles d’IA brille particulièrement si tu les nourris de données AAA.
+
+### La distribution
+
+*Sure*, une indie hacker peut dev 80% des fonctionnalités de ton SaaS pendant un weekend.
+
+Mais est-ce qu’elle peut avoir les yeux et les oreilles de ton audience ou de tes clients aussi vite?
+
+Le marketing et la vente deviennent de plus en plus difficile. L’époque des positions faciles sur Google et des CPC de *peanuts* est révolue. Nos inboxes et DMs débordent de *cold outreach*.
+
+Aujourd’hui, c’est rendu plus *tough* construire un modèle de GTM (Go-to-Market) soutenable qu’un produit fonctionnel. J’ai du bon stock avec l’équipe de Vasco qui sort là-dessus bientôt.
+
+En rafale, des poneys de commercialisation sur lesquels miser IMO :
+
+- Product marketing & positionnement
+
+- Proximité locale, culturelle, linguistique, technique avec ton ICP
+
+- Image de marque (plus qu’avant)
+
+- Distribution et partenariats avec influenceurs B2B ou experts d’industrie
+
+- Cultivation de ta propre audience (emails > followers)
+
+- Participation à ou création de communautés nichées
+
+- Marketing par intégrations / distribution via répertoires officiels
+
+- Marketing perso de fondateur et même d’employé +++ (H2H baby)
+
+### Le barrière à la sortie
+
+Mais mettons que la indie hacker réussit à les joindre, tes utilisateurs. Est-ce qu’elle peut bâtir la confiance nécessaire pour qu’ils assume le *switching cost*?
+
+Si t’es un *PDF converter*, probablement.
+
+D’ailleurs — y’est élevé, le switching cost de ton SaaS? Autant en temps, argent, qu’en émotions?
+
+Exemple : Snipcart génère encore >1M USD par année avec basically zéro nouveau marketing (SEO continue de rouler, years and years later)
+
+J’ai pas les stats de churn, mais de ce que je peux en déduire, c’est bas.
+
+Changer ton fournisseur e-commerce c’est pas un *easy swap* nécessairement. Quand t’as une config qui fonctionne pour ton échelle relativement petite, tu gosses moins avec ça. Le marché servi est clé ici, parce que plus tu *scale*, plus les frais de processing de paiement sont élevés, plus les secondes de performances perdues sont coûteuses, etc.
+
+C’est pour ça que même les plus gros marchands finissent souvent par transcender Shopify pour du custom *high-end* ou du headless sophistiqué.
+
+Pense-y : comment tu fais pour le monter un peu, ton *switching cost*?
+
+Trouve-moi au moins trois raisons qui vont *legit* briser le coeur ou le portefeuille de tes clients s’ils *churn*.
+
+Bon, tout ça peut sembler décourageant mais :
+
+### L’internet multiplie les marchés
+
+J’avais donné une conférence au WAQ y’a quelques années intitulée :
+
+> **Petite pointe, grosse tarte**
+
+Longtemps, plusieurs peinaient à piger comment Snipcart existait dans un monde où y’avait SHOPIFY. La réponse : les géants agrandissent les marchés et aliènent un paquet de monde dans le processus. Ils y forment des craques, certaines minces d’autres larges, et les nouveaux joueurs rentrent dedans pour capturer leur petite pointe d’une grosse tarte.
+
+*Niches on niches on niches*
+
+Eh bien les tartes sont rendues géantes. Autant la B2B que la B2C.
+
+Et quand t’as plus de pointes d’une tarte grandissante à choper, t’as plus de businesses à construire, de clients à convertir.
+
+Y’a PLUS de MONDE : communautés, tribus, verticaux, groupes, réseaux, associations, fans, etc.
+
+Y’a PLUS de PROBLÈMES : des nouveaux irritants apparaissent avec chaque nouvelle plateforme, technologie, tendance, etc.
+
+Aiguise ton couteau puis va chercher ta pointe, *homie*.
+
+BON.
+
+Y’est tard. Joëlle travaille assise sur le plancher du chalet, laptop sur le siège d’une chaise. Zéro ergo. Une vraie dure à cuire.
+
+C’est le temps de *punch out*.
+
+Retraite stratégique pour 2025 demain.
+
+On est all-in, folks.
+
+-
+
+Quelque chose à ajouter? *Good*. Laisse un commentaire ou réponds à ce courriel direct.
+
+Cheers,
+
+[Frank](https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=newsletter&utm_campaign=y-a-pas-de-laine-sur-les-moutons-electriques) 💜
