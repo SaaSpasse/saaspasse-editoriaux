@@ -45,5 +45,64 @@ def main():
 
     print(f"\n✓ Fichiers ouverts dans votre éditeur!")
 
+    # Synchroniser avec GitHub
+    sync_with_github(base_dir, metadata)
+
+def sync_with_github(base_dir, metadata):
+    """Synchronise automatiquement les nouveaux fichiers avec GitHub"""
+    print(f"\n🔄 Synchronisation avec GitHub...")
+
+    try:
+        # Vérifier qu'on est dans un repo Git
+        result = subprocess.run(
+            ['git', '-C', str(base_dir), 'status'],
+            capture_output=True,
+            text=True,
+            check=False
+        )
+
+        if result.returncode != 0:
+            print("⚠️  Pas un repo Git. Synchronisation ignorée.")
+            return
+
+        # Git add
+        subprocess.run(
+            ['git', '-C', str(base_dir), 'add', 'editoriaux/', 'posts-complets/'],
+            check=True
+        )
+
+        # Git commit
+        title = metadata.get('title', 'Nouveau post')
+        commit_msg = f"""Ajout éditorial: {title}
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>"""
+
+        result = subprocess.run(
+            ['git', '-C', str(base_dir), 'commit', '-m', commit_msg],
+            capture_output=True,
+            text=True,
+            check=False
+        )
+
+        if "nothing to commit" in result.stdout:
+            print("✓ Aucun changement à synchroniser")
+            return
+
+        # Git push
+        subprocess.run(
+            ['git', '-C', str(base_dir), 'push'],
+            check=True
+        )
+
+        print("✓ Synchronisé avec GitHub!")
+        print("  → https://github.com/SaaSpasse/saaspasse-editoriaux")
+
+    except subprocess.CalledProcessError as e:
+        print(f"⚠️  Erreur de synchronisation Git: {e}")
+        print("   Vous pouvez synchroniser manuellement avec:")
+        print("   cd ~/Claude\\ Code/posts-infolettre && git add . && git commit -m 'update' && git push")
+
 if __name__ == '__main__':
     main()

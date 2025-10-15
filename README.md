@@ -46,9 +46,28 @@ Claude pourra:
 2. Identifier les éditoriaux pertinents
 3. Vous donner l'URL exacte à insérer
 
-## 🔄 Workflow de synchronisation Git
+## 🔄 Workflow automatisé (recommandé)
 
-### Quand ajouter un nouvel éditorial
+### Ajouter un nouvel éditorial
+
+**Le workflow est maintenant entièrement automatisé!**
+
+1. **Télécharger la version HTML** de votre éditorial publié
+2. **Donner le fichier à Claude Code** et dire:
+   > "Convertis-moi ça dans les deux versions de Markdown qu'on a besoin, puis mets-le dans le dossier posts-infolettre"
+3. Claude Code va automatiquement:
+   - ✅ Convertir en Markdown (éditorial + post complet)
+   - ✅ Sauvegarder dans les bons dossiers
+   - ✅ `git add` + `commit` + `push` vers GitHub
+   - ✅ Claude Web verra la mise à jour automatiquement!
+
+**C'est tout!** Plus besoin de toucher à Git manuellement.
+
+---
+
+## 🔧 Workflow manuel (si nécessaire)
+
+### Si vous ajoutez des fichiers manuellement
 
 ```bash
 # 1. Naviguer vers le dossier
