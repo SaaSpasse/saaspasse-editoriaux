@@ -10,7 +10,7 @@ posts-infolettre/
 │   ├── 2023-06-15-elfe-troll-wu-tang.md
 │   ├── 2024-09-06-ta-job-cest-de-vendre-ta-job.md
 │   └── ...
-├── editoriaux/              # 51 éditoriaux (texte pur, sans metadata)
+├── editoriaux/              # 53 éditoriaux (texte pur, sans metadata)
 │   ├── 2024-09-06-ta-job-cest-de-vendre-ta-job.md
 │   └── ...
 ├── samples/                 # Échantillons HTML et analyses
@@ -106,9 +106,9 @@ git pull
 ## 📊 Statistiques
 
 - **83 posts complets** avec metadata
-- **51 éditoriaux** (texte pur)
+- **53 éditoriaux** (texte pur)
 - Date du plus ancien: 2023-06-15
-- Date du plus récent: 2025-10-10
+- Date du plus récent: 2025-10-24
 
 ## 🔒 Confidentialité
 
