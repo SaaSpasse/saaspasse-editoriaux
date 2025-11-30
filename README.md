@@ -1,6 +1,6 @@
 # SaaSpasse - Archive des Éditoriaux
 
-Archive privée des éditoriaux d'infolettres SaaSpasse pour référence et rédaction avec Claude Web et ChatGPT.
+Archive des éditoriaux d'infolettres SaaSpasse pour référence et rédaction avec Claude Web et ChatGPT.
 
 ## 📁 Structure
 
