@@ -21,3 +21,4 @@ Thumbs.db
 # Données sensibles
 *.csv
 CLAUDE.md
+.beehiiv_config.json
