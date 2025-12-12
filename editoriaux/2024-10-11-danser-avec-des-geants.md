@@ -1,34 +1,3 @@
----
-date: '2024-10-11'
-title: Danser avec des géants
-url: https://saaspasse.beehiiv.com/p/danser-avec-des-geants
-slug: danser-avec-des-geants
-source: beehiiv
-word_count: 1296
-reading_time_min: 6
-editorial_confidence: high
-liens_internes: 37
-liens_externes: 0
-top_domains:
-utm_detectes:
-- url: https://www.twitter.com/frankhellend?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://saas-marketplaces.com/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://saas-marketplaces.com/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://www.saaspasse.com/episode/episode-98-derek-morin-une-fin-heureuse-avec-quelques-millions-vendre-son-app-shopify?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://www.saaspasse.com/episode/episode-54-renaud-teasdale-rebranding-platform-risk-lecons-business?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://www.linkedin.com/in/raffp/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://betakit.com/shopify-acquires-return-magic-to-help-retailers-automate-refunds/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://www.linkedin.com/in/pcliche/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://www.rackspace.com/newsroom/rackspace-acquire-onica-cloud-native-consulting-and-managed-services-company?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-- url: https://www.infostrux.com/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants
-personnes:
-- nom: Raff Paquin
-  linkedin: https://www.linkedin.com/in/raffp/?utm_source=saaspasse.beehiiv.com
-- nom: Pierre Jr Cliche
-  linkedin: https://www.linkedin.com/in/pcliche/?utm_source=saaspasse.beehiiv.com
----
-
-
 # Éditorial (copywriting)
 
 <!-- editorial:start -->
@@ -275,4 +244,3 @@ Vous n’êtes pas abonnés encore au pod? Let’s go :
   * [YouTube](https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=danser-avec-des-geants)
 
 _Okay bobye!_
-

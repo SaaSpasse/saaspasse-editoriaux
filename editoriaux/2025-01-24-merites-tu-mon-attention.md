@@ -1,36 +1,3 @@
----
-date: '2025-01-24'
-title: Mérites-tu mon attention?
-url: https://saaspasse.beehiiv.com/p/merites-tu-mon-attention
-slug: merites-tu-mon-attention
-source: beehiiv
-word_count: 1614
-reading_time_min: 8
-editorial_confidence: high
-liens_internes: 36
-liens_externes: 1
-top_domains:
-- domain: www.instagram.com
-  count: 1
-utm_detectes:
-- url: https://www.twitter.com/frankhellend?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: https://www.saaspasse.com/episode/episode-740live-jean-gabriel-crevier-monte-tes-prix-le-comptable-la-dit?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: http://bolt.new?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: https://www.octoboard.com/blog/ppc-analytics/google-ads-paid-advertising-cpc-trends-2024?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention#how-has-average-cpc-changed-over-the-years
-- url: https://www.benchmarkit.ai/2024benchmarks?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: https://latecheckout.substack.com/p/the-framework-to-find-traction-for?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: https://www.instagram.com/libecapital?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-- url: https://www.j7media.com/fr/podcast-hypercroissance?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: https://www.linkedin.com/in/lerouxs/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-- url: https://lu.ma/mhx9ba2g?tk=WXAuhq&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention
-personnes:
-- nom: le fait bien
-  linkedin: https://www.linkedin.com/in/lerouxs/?utm_source=saaspasse.beehiiv.com
-- nom: Eric Pinet
-  linkedin: https://www.linkedin.com/in/ericpinet/?utm_source=saaspasse.beehiiv.com
----
-
-
 # Éditorial (copywriting)
 
 <!-- editorial:start -->
@@ -306,4 +273,3 @@ Pas encore abonné au pod? Let’s go :
   * [YouTube](https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=merites-tu-mon-attention)
 
 _Okay bobye!_
-
