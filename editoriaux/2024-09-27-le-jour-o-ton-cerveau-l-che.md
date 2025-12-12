@@ -1,20 +1,4 @@
----
-date: '2024-09-27'
-title: Le pitch du psy
-url: https://saaspasse.beehiiv.com/p/le-jour-o-ton-cerveau-l-che
-slug: le-jour-o-ton-cerveau-l-che
-source: beehiiv
-word_count: 1857
-reading_time_min: 9
-editorial_confidence: high
-liens_internes: 24
-liens_externes: 0
-top_domains:
-utm_detectes:
-- url: https://www.twitter.com/frankhellend?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
-- url: https://www.flanthiernadeau.com/cognitive-distortions/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
-- url: https://fr.wikipedia.org/wiki/Sch%C3%A9math%C3%A9rapie?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
-- url: https://www.saaspasse.com/episode/episode-104-marjorie-doucet-design-defis-echecs----10-ans-pour-trouver-son-x-en-tech?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
+-10-ans-pour-trouver-son-x-en-tech?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
 - url: https://www.saaspasse.com/episode/episode-22-claudia-marcotte-sante-mentale-entrepreneuriat?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
 - url: https://www.ordrepsy.qc.ca/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
 - url: https://www.saaspasse.com/blog/leviat-x-gaiia-etude-de-cas-saaspasse?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy
@@ -369,4 +353,3 @@ Vous n’êtes pas abonnés encore au pod? Let’s go :
   * [YouTube](https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=le-pitch-du-psy)
 
 _Okay bobye!_
-

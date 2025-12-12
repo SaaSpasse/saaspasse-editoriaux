@@ -1,34 +1,3 @@
----
-date: '2024-10-18'
-title: Tout le monde a un plan...
-url: https://saaspasse.beehiiv.com/p/tout-le-monde-a-un-plan
-slug: tout-le-monde-a-un-plan
-source: beehiiv
-word_count: 1123
-reading_time_min: 5
-editorial_confidence: high
-liens_internes: 27
-liens_externes: 0
-top_domains:
-utm_detectes:
-- url: https://www.twitter.com/frankhellend?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://www.flanthiernadeau.com/selling-snipcart-part-one/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://www.linkedin.com/in/frankln/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: http://saas.group?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://www.youtube.com/watch?v=vDbWW2JWXg4&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://youtu.be/vDbWW2JWXg4?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://youtu.be/vDbWW2JWXg4?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://saas.group/?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://www.youtube.com/watch?v=vDbWW2JWXg4&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-- url: https://www.saaspasse.com/episode/episode-99-antoine-pare-de-bootstrapped-a-m-a-dashthis-et-le-chapitre-saas-group?utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan
-personnes:
-- nom: Shawn Young
-  linkedin: https://www.linkedin.com/in/shawnyoung1/?utm_source=saaspasse.beehiiv.com
-- nom: Stéphane Guillemette
-  linkedin: https://www.linkedin.com/in/sguillemette/?utm_source=saaspasse.beehiiv.com
----
-
-
 # Éditorial (copywriting)
 
 <!-- editorial:start -->
@@ -237,4 +206,3 @@ Vous n’êtes pas abonnés encore au pod? Let’s go :
   * [YouTube](https://saaspasse.us21.list-manage.com/track/click?u=08069c7a09572a6f53206b186&id=0db39a54bc&e=f6fe3433c4&utm_source=saaspasse.beehiiv.com&utm_medium=referral&utm_campaign=tout-le-monde-a-un-plan)
 
 _Okay bobye!_
-
