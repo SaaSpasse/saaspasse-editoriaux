@@ -22,3 +22,4 @@ Thumbs.db
 *.csv
 CLAUDE.md
 .beehiiv_config.json
+.gemini_config.json

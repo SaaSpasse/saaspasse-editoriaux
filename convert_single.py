@@ -9,7 +9,7 @@ import subprocess
 
 def main():
     # Chemins
-    html_file = Path("/Users/francoislanthiernadeau/Downloads/post-html-d5f16695-e7c7-47cd-b510-941bc1a6cd4a (1).html")
+    html_file = Path("/Users/francoislanthiernadeau/Downloads/post-html-4a596bae-43f1-466d-b562-b8c4542f0c55.html")
     base_dir = Path.home() / "Claude Code/posts-infolettre"
     editoriaux_dir = base_dir / "editoriaux"
     posts_complets_dir = base_dir / "posts-complets"
