@@ -86,10 +86,35 @@ def extract_editorial(content):
         "Merci tellement à tous"
     ]
 
+    # Marqueurs de début possibles
+    start_markers = [
+        "What's up folks",
+        "Ma blonde",  # Début alternatif pour certains éditos
+    ]
+
     for line in lines:
-        # Chercher le début (What's up folks ou le titre principal)
+        # Chercher le début (What's up folks ou autres marqueurs)
         if not found_start:
-            if "What's up folks" in line:
+            # Vérifier les marqueurs connus
+            if any(marker in line for marker in start_markers):
+                in_editorial = True
+                found_start = True
+                editorial_lines.append(line)
+                continue
+            # Fallback: si on trouve une ligne de contenu substantielle après le header
+            # (pas un lien, pas une image, pas vide, pas un titre #)
+            stripped = line.strip()
+            if (stripped
+                and not stripped.startswith('#')
+                and not stripped.startswith('[')
+                and not stripped.startswith('!')
+                and not stripped.startswith('|')
+                and len(stripped) > 30
+                and 'beehiiv.com' not in stripped
+                and 'décembre' not in stripped.lower()
+                and 'novembre' not in stripped.lower()
+                and 'octobre' not in stripped.lower()
+                and 'Author' not in stripped):
                 in_editorial = True
                 found_start = True
                 editorial_lines.append(line)
