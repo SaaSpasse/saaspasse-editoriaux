@@ -110,10 +110,6 @@ git pull
 - Date du plus ancien: 2023-06-15
 - Date du plus récent: 2025-10-24
 
-## 🔒 Confidentialité
-
-Ce repo est **privé**. Il contient votre contenu propriétaire et ne doit pas être partagé publiquement.
-
 ## 📝 Notes
 
 - Le fichier CSV n'est **pas** synchronisé (`.gitignore`)
