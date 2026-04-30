@@ -46,7 +46,7 @@ Si la session a révélé:
 - Un pattern/recette réutilisable
 - Une décision structurante
 
-Alors proposer de l'ajouter au `CLAUDE.md` ou `learnings.md` (comme `/learn`). Demander confirmation avant d'écrire.
+Alors proposer de l'ajouter au `CLAUDE.md` ou `learnings.md`. Demander confirmation avant d'écrire.
 
 Si rien de notable, ne rien proposer — pas besoin de forcer un apprentissage à chaque session.
 
