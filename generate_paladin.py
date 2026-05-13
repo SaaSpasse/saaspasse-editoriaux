@@ -32,7 +32,7 @@ except ImportError:
 
 BASE_DIR = Path(__file__).parent
 CONFIG_FILE = BASE_DIR / ".gemini_config.json"
-REF_IMAGE_FILE = Path.home() / "Claude Code/saaspasse-paladin/netlify/functions/ref-image.ts"
+REF_IMAGE_FILE = Path.home() / "claude-code/saaspasse-paladin/netlify/functions/ref-image.ts"
 DOWNLOADS_DIR = Path.home() / "Downloads"
 
 # Modèles Gemini (même que l'app La Forge)

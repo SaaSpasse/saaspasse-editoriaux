@@ -23,3 +23,6 @@ Thumbs.db
 CLAUDE.md
 .beehiiv_config.json
 .gemini_config.json
+
+# Brouillons locaux
+drafts/
