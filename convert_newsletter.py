@@ -23,12 +23,19 @@ def extract_metadata(html):
     date_match = re.search(r'(\d{4}-\d{2}-\d{2})', html)
     date = date_match.group(1) if date_match else "0000-00-00"
 
-    # Slug depuis l'URL
-    slug_match = re.search(r'saaspasse\.beehiiv\.com/p/([^"?\s&]+)', html)
-    slug = slug_match.group(1) if slug_match else title.lower().replace(' ', '-')
+    # Slug/URL depuis les métadonnées injectées par fetch_beehiiv.py.
+    # Fallback sur le contenu HTML pour les anciens exports téléchargés à la main.
+    slug_meta = soup.find('meta', attrs={'name': 'slug'})
+    url_meta = soup.find('meta', attrs={'name': 'url'})
+    slug = slug_meta.get('content', '').strip() if slug_meta else ''
+    url = url_meta.get('content', '').strip() if url_meta else ''
 
-    # URL complète
-    url = f"https://saaspasse.beehiiv.com/p/{slug}"
+    if not slug:
+        slug_match = re.search(r'(?:saaspasse\.beehiiv\.com|infolettre\.saaspasse\.com)/p/([^"?\s&]+)', html)
+        slug = slug_match.group(1) if slug_match else title.lower().replace(' ', '-')
+
+    if not url:
+        url = f"https://saaspasse.beehiiv.com/p/{slug}"
 
     return {
         'title': title,
